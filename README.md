@@ -101,6 +101,9 @@ https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
 
 https://dzone.com/articles/adding-a-github-webhook-in-your-jenkins-pipeline
 
+# angular test cases
+
+https://blog.angulartraining.com/how-to-running-angular-tests-on-continuous-integration-servers-ad492219c08c
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
