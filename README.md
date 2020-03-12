@@ -95,6 +95,11 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update tests as appropriate.
 
 # Jenkins Installation has been completed now we need to  add jobs
+https://www.thesunflowerlab.com/blog/jenkins-aws-ec2-instance-ssh/ to add ssh aws we need to create cred then add to ssh global configuration
+
+https://dzone.com/articles/learn-how-to-setup-a-cicd-pipeline-from-scratch
+
+https://dzone.com/articles/adding-a-github-webhook-in-your-jenkins-pipeline
 
 
 ## License
