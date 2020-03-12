@@ -105,5 +105,7 @@ https://dzone.com/articles/adding-a-github-webhook-in-your-jenkins-pipeline
 
 https://blog.angulartraining.com/how-to-running-angular-tests-on-continuous-integration-servers-ad492219c08c
 
+# ./ngrok http 8080
+
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
