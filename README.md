@@ -107,5 +107,9 @@ https://blog.angulartraining.com/how-to-running-angular-tests-on-continuous-inte
 
 # ./ngrok http 8080
 
+# Protector for angular / jenkins
+https://medium.com/@cnishina/protractor-in-ci-jenkins-6f5fd3fc06ee
+# Protector headless browser
+https://www.maniuk.net/2017/10/configure-jenkins-and-xvfb-plugin-on-ubuntu.html
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
