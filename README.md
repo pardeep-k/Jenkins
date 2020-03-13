@@ -250,6 +250,10 @@ sudo git pull origin uat
 && sudo mv dist/ ../
 ```
 
+**NOTE:** make sure you checked the checkbox for **Execute each line** checkbox
+
+
+
 # angular test cases
 
 https://blog.angulartraining.com/how-to-running-angular-tests-on-continuous-integration-servers-ad492219c08c
@@ -262,10 +266,3 @@ https://medium.com/@cnishina/protractor-in-ci-jenkins-6f5fd3fc06ee
 https://www.maniuk.net/2017/10/configure-jenkins-and-xvfb-plugin-on-ubuntu.html
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
-
-
-
-
-```
-NOTE make sure you checked the checkbox for **Execute each line** checkbox
-
