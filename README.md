@@ -248,7 +248,7 @@ sudo git pull origin uat
 && sudo npm run build-uat 
 && sudo rm -rf ../dist 
 && sudo mv dist/ ../
-
+```
 
 # angular test cases
 
